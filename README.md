@@ -78,9 +78,10 @@
 Структура каталога решения:<br />
 ![image](https://github.com/IvanPovaliaev/BallGamesWindowsFormApp/assets/157638990/19fc68ad-b1c5-4b54-9681-754c803686f1)
 
-Проект `BallGame.Common` является общей библиотекой классов для следующих проектов:
+`BallGame.Common` является общей библиотекой классов для следующих проектов:
 * [BallGamesWindowsFormApp](https://github.com/IvanPovaliaev/BallGamesWindowsFormApp)
-*
+* [FruitNinjaWinFormsApp](https://github.com/IvanPovaliaev/FruitNinjaWinFormsApp)
+* [AngryBirdsWinFormsApp](https://github.com/IvanPovaliaev/AngryBirdsWinFormsApp)
 
 Библиотека содержит общий класс `Ball`, от которого наследуются остальные шарики.
 
