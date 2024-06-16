@@ -79,7 +79,7 @@
 ![image](https://github.com/IvanPovaliaev/BallGamesWindowsFormApp/assets/157638990/19fc68ad-b1c5-4b54-9681-754c803686f1)
 
 Проект `BallGame.Common` является общей библиотекой классов для следующих проектов:
-* https://github.com/IvanPovaliaev/BallGamesWindowsFormApp
+* [BallGamesWindowsFormApp](https://github.com/IvanPovaliaev/BallGamesWindowsFormApp)
 *
 
 Библиотека содержит общий класс `Ball`, от которого наследуются остальные шарики.
